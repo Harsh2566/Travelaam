@@ -1,0 +1,15 @@
+#h1
+{
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+
+}
+#form
+{
+  width: 50%;
+}
+#submit
+{
+  width: 100%;
+}
